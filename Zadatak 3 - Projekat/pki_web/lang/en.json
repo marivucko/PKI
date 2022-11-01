@@ -1,0 +1,72 @@
+{
+    "splash_route_title": "Pčelarska kuća Medenjaci",
+
+    "app_bar_home": "Početna",
+    "app_bar_my_account": "Moj nalog",
+    "app_bar_register": "REGISTRUJTE SE",
+    "app_bar_login": "LOGUJTE SE",
+    "app_bar_products_list": "Proizvodi",
+    "app_bar_basket": "Korpa",
+    "app_bar_orders": "Narudžbine",
+    "app_bar_add_product": "Proizvodi",
+    "app_bar_change_data": "Promena podataka",
+    "app_bar_logout": "Odjavite se",
+    "app_bar_change_personal_data": "PROMENA LIČNIH PODATAKA",
+    "app_bar_change_password": "PROMENA LOZINKE",
+
+    "down_app_bar_address_text": "Adresa",
+    "down_app_bar_address": "Vojislava Ilića 24, Sombor",
+    "down_app_bar_working_hour_text": "Radno vreme",
+    "down_app_bar_working_hour": "Moj nalog",
+    "down_app_bar_call_number_text": "Moj nalog",
+    "down_app_bar_call_number": "Moj nalog",
+    "down_app_bar_call_email_text": "Moj nalog",
+    "down_app_bar_call_email": "Moj nalog",
+
+    "main_route_text":  "Dobrodošli!",
+    "main_route_login_button":  "Logujte se",
+    "main_route_register_button":  "Registrujte se",
+
+    "back_button_text": "Nazad",
+
+    "register_route_name": "Ime",
+    "register_route_surname": "Prezime",
+    "register_route_address": "Adresa",
+    "register_route_phone": "Telefon",
+    "register_route_username": "Korisničko ime",
+    "register_route_password": "Lozinka",
+    "register_route_customer": "Kupac",
+    "register_route_vendor": "Prodavac",
+    "register_route_register": "Registrujte se",
+
+    "register_route_insert_name": "Unestie ime",
+    "register_route_insert_surname": "Unesite prezime",
+    "register_route_insert_address": "Unesite adresu",
+    "register_route_insert_phone": "Unesite telefon",
+    "register_route_insert_username": "Unesite korisničko ime",
+    "register_route_insert_password": "Unesite lozinku",
+    "register_route_insert_username_already_exists": "Već postoji korisnik sa ovim korisničkim imenom!",
+
+    "login_route_username": "Korisničko ime",
+    "login_route_password": "Lozinka",
+
+    "login_route_insert_username": "Unesite korisničko ime",
+    "login_route_insert_password": "Unesite lozinku",
+    "login_route_username_does_not_exist": "Ne postoji korisnik sa ovim korisničkim imenom!",
+    "login_route_wrong_password": "Uneta je pogrešna lozinka!",
+
+    "customer_change_data_route_save_data": "Sačuvajte izmene",
+    "customer_change_data_route_saved_data": "Promene su uspešno sačuvane.",
+
+    "customer_change_password_route_enter_new_password": "Unesite novu lozinku",
+
+
+    "vendor_add_product_route_save_data": "Sačuvajte",
+
+    "main_route_home_text": "Naš maloprodajni objekat prostire se na preko 100 m2 pored glavne pijace u Somboru. Ceo asortiman je iz naše proizvodnje, i predstavlja kompletnu opremu za pčelarstvo. Iz širokog asortimana možete da izabrete šta Vam je poterbno. Proizovode pravimo i po meri, a isporuka je besplatna i na kućnu adresu.",
+
+    "loading": "Loading",
+    "downing": "Downloading"
+
+
+}
